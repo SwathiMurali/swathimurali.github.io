@@ -1,6 +1,6 @@
 # Projects
 
-## Project 1: CUSTOMER COMPLAINT ANAYSIS AND PREDICTION SYSTEM
+## [Project 1: CUSTOMER COMPLAINT ANAYSIS AND PREDICTION SYSTEM](https://github.com/SwathiMurali/Customer-Complaint-Sentiment-Analysis-with-BERT)
 
 ## Overview of the Project:
 The project focuses on leveraging advanced Natural Language Processing (NLP) and Machine Learning techniques to process and derive meaningful insights from this dataset. The four primary tasks that were undertaken are:  
